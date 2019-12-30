@@ -46,25 +46,34 @@ The discovered improvements in nowcast precision of regional unemployment rates
 are contingent on geography and the choice of the baseline model.
 
 #### Repository structure
-
-[Thesis](thesis) contains the master's thesis as a PDF file <br/>
-[Denmark](denmark) contains the data, code, models and results for Denmark <br/>
-[Sweden](sweden)  contains the data, code, models and results for Sweden <br/>
-
 <!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
 
-
- 
+[Denmark](denmark) contains the data, code, models and results for Denmark <br/>
  📦 denmark <br/>
  ┣ 📂data <br/>
  ┣ 📂results <br/>
  ┣ 📂notebooks <br/>
+ ┃ ┣ 📜1_merge_robust.ipynb <br/>
+ ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
+ ┃ ┣ 📜3_analysis_robust.ipynb <br/>
+ ┃ ┣ 📜4_model_weights.ipynb <br/>
+ ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
+ ┃ ┗ 📜6_results_robust.ipynb <br/>
+
+[Sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 
 📦sweden <br/>
  ┣ 📂data <br/>
  ┣ 📂results <br/>
  ┣ 📂notebooks <br/>
+ ┃ ┣ 📜1_merge_robust.ipynb <br/>
+ ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
+ ┃ ┣ 📜3_analysis_robust.ipynb <br/>
+ ┃ ┣ 📜4_model_weights.ipynb <br/>
+ ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
+ ┃ ┗ 📜6_results_robust.ipynb <br/>
 
+[Thesis](thesis) contains the master's thesis as a PDF file <br/>
 📦thesis <br/>
 
 
