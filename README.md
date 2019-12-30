@@ -13,11 +13,7 @@ the entirety of the thesis process, which has helped us tremendously in structur
 the analysis and sharpening our results.
 Furthermore, we would like to thank our supervisor Andreas Bjerre-Nielsen for his
 valuable feedback on how to motivate the analysis, and insights into how we should
-illustrate the results. The overall process has been very pleasant.
-The thesis was written in close collaboration between the two authors, and we are
-jointly responsible for all the choices made throughout the thesis with regards to the
-written text, data processing, coding and the final results. Any errors made in the
-thesis rest solely on the shoulders of the authors.
+illustrate the results. 
 
 #### Abstract 
 
@@ -42,6 +38,8 @@ The discovered improvements in nowcast precision of regional unemployment rates
 are contingent on geography and the choice of the baseline model.
 
 #### Repository structure
+
+
 
 
 
