@@ -47,7 +47,7 @@ are contingent on geography and the choice of the baseline model.
 
 #### Repository structure
 
-[my directory](thesis)
+[Thesis](thesis)
 
 
 
