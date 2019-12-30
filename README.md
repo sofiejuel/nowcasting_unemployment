@@ -51,7 +51,7 @@ are contingent on geography and the choice of the baseline model.
 [Denmark](denmark) contains the data, code, models and results for Denmark <br/>
 [Sweden](sweden)  contains the data, code, models and results for Sweden <br/>
 
-Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator
+<!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
 
 
  
