@@ -60,6 +60,10 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┣ 📜5_results_DK.ipynb <br/>
  ┃ ┗ 📜6_SHAP xgboost.ipynb <br/>
 
+[functions](functions) contains the constructed functions <br/> 
+📦functions <br/>
+ ┗ 📜func.py <br/>
+
 [sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 📦sweden <br/>
  ┣ 📂data <br/>
@@ -71,10 +75,6 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┣ 📜4_model_weights.ipynb <br/>
  ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
  ┃ ┗ 📜6_results_robust.ipynb <br/>
- 
-[functions](functions) contains the constructed functions <br/> 
-📦functions <br/>
- ┗ 📜func.py <br/>
 
 [thesis](thesis) contains the master's thesis as a PDF file <br/>
 📦thesis <br/>
