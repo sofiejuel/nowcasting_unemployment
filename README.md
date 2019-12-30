@@ -9,7 +9,7 @@ Sofie Juel and Waldemar Schoustrup Schuppli
 
 This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
 The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>
-The retrived data is avaliable upon request.
+The retrived data is avaliable upon request. 
 
 #### Acknowledgements
 
@@ -52,13 +52,12 @@ are contingent on geography and the choice of the baseline model.
 
 [denmark](denmark) contains the data, code, models and results for Denmark <br/>
  📦 denmark <br/>
- ┣ 📂notebooks <br/>
  ┃ ┣ 📜1_merge_DK.ipynb <br/>
  ┃ ┣ 📜2_descriptive_DK.ipynb <br/>
  ┃ ┣ 📜3_analysis_DK.ipynb <br/>
- ┃ ┣ 📜4_model_weights.ipynb <br/>
+ ┃ ┣ 📜4_model_weights_DK.ipynb <br/>
  ┃ ┣ 📜5_results_DK.ipynb <br/>
- ┃ ┗ 📜6_SHAP xgboost.ipynb <br/>
+ ┃ ┗ 📜6_SHAP_xgboost_DK.ipynb <br/>
 
 [functions](functions) contains the constructed functions <br/> 
 📦functions <br/>
@@ -66,16 +65,15 @@ are contingent on geography and the choice of the baseline model.
 
 [sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 📦sweden <br/>
- ┣ 📂notebooks <br/>
  ┃ ┣ 📜1_merge_robust.ipynb <br/>
  ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
  ┃ ┣ 📜3_analysis_robust.ipynb <br/>
- ┃ ┣ 📜4_model_weights.ipynb <br/>
- ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
+ ┃ ┣ 📜4_model_weights_robust.ipynb <br/>
+ ┃ ┣ 📜5_analysis_conf_robust.ipynb <br/>
  ┃ ┗ 📜6_results_robust.ipynb <br/>
 
 [thesis](thesis) contains the master's thesis as a PDF file <br/>
 📦thesis <br/>
- ┗ 📜master_thesis.pdf <br/>
+ ┗ 📜masters_thesis.pdf <br/>
 
 
