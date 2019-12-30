@@ -47,7 +47,7 @@ are contingent on geography and the choice of the baseline model.
 
 #### Repository structure
 
-[Thesis](thesis)
+[Thesis](thesis) contains the master's thesis as a PDF file
 
 
 
