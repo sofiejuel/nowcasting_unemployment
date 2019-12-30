@@ -71,8 +71,13 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┣ 📜4_model_weights.ipynb <br/>
  ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
  ┃ ┗ 📜6_results_robust.ipynb <br/>
+ 
+[functions](functions) contains the constructed functions <br/> 
+📦functions <br/>
+ ┗ 📜func.py <br/>
 
 [thesis](thesis) contains the master's thesis as a PDF file <br/>
 📦thesis <br/>
+ ┗ 📜master_thesis.pdf <br/>
 
 
