@@ -1,8 +1,8 @@
 ## Beyond the Hype: A machine learning approach to macroeconomic nowcasting
 
 Institution: University of Copenhagen, Department of Economics <br/>
-Authors: Sofie Juel and Waldemar Schoustrup Schuppli
-Type: Master's thesis, December 2019 <br/>
+Authors: Sofie Juel and Waldemar Schoustrup Schuppli  <br/>
+Type: Master's thesis, December 2019
 
 #### About 
 
