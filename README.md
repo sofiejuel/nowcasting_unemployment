@@ -48,6 +48,8 @@ are contingent on geography and the choice of the baseline model.
 #### Repository structure
 
 [Thesis](thesis) contains the master's thesis as a PDF file
+[Denmark](denmark) contains the data, code, models and results for Denmark
+[Sweden](sweden)  contains the data, code, models and results for Sweden
 
 
 
