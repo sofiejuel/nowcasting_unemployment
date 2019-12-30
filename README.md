@@ -1,6 +1,48 @@
 ## Nowcasting regional unemployment rates in Denmark
 ### - A machine learning approach with novel data
 
-We develop a machine learning approach to nowcasting regional unemployment rates that allows for real-time nowcasting within the publication lag period. We rely on novel data sources such as online search term intensity from Google Trends and job market indicators from Jobindex that are available in real time.
-By combining various machine learning techniques with the novel data sources, we obtain
-nowcasts for the monthly unemployment rates of the Danish regions from 2011-2019, and nowcasts for the quarterly unemployment rates of the Swedish regions from 2011- 2019. By testing various machine learning algorithms against different benchmark time series models for both countries, we find that the machine learning algorithms provides, at best, modest improvements the nowcasts of the unemployment rates – and we also analyse and discuss under which conditions machine learning has the most potential for improving nowcasts.
+#### Acknowledgements
+
+There are a number of people whom we would like to offer our gratitude for their
+helpful insights and comments throughout our entire thesis writing process.
+First of all, we would like to thank Danmarks Nationalbank (The Central Bank of
+Denmark) and the department of Data Analytics and Science for providing facilities
+and guidance. In particular, Senior Data Scientist Alessandro Martinello has provided
+support, insights and challenging questions through weekly feedback sessions during
+the entirety of the thesis process, which has helped us tremendously in structuring
+the analysis and sharpening our results.
+Furthermore, we would like to thank our supervisor Andreas Bjerre-Nielsen for his
+valuable feedback on how to motivate the analysis, and insights into how we should
+illustrate the results. The overall process has been very pleasant.
+The thesis was written in close collaboration between the two authors, and we are
+jointly responsible for all the choices made throughout the thesis with regards to the
+written text, data processing, coding and the final results. Any errors made in the
+thesis rest solely on the shoulders of the authors.
+
+#### Abstract 
+
+Many macroeconomic series such as unemployment rates are published with lags relative
+to the period that the statistic covers, which renders decision-makers that rely on
+these macroeconomic series blind for the duration of the publication lag period. Nowcasting
+is an approach designed to alleviate this issue by providing an early estimate
+of the desired statistic during the publication lag period.
+In this thesis, we will develop a model framework to nowcast the regional unemployment
+rates of Denmark and also expand the analysis to the regions of Sweden.
+In order to this, we will incorporate two key aspects: Utilisation of alternative data
+with very short publication lags, and machine learning techniques.
+We utilise job posts from the largest online job market in Denmark, Jobindex,
+along with search term intensity data from Google Trends. These data sources are
+available almost real-time, which enables the creation of nowcasting models of the
+regional unemployment rates during the publication lag period. By combining these
+data sources with machine learning techniques, we capture more variation and interdependencies
+in the data, which can allow for more accurate predictions.
+Our findings suggest mixed results of applying novel real-time data combined
+with machine learning techniques versus a traditional econometric nowcasting model.
+The discovered improvements in nowcast precision of regional unemployment rates
+are contingent on geography and the choice of the baseline model.
+
+#### Repository structure
+
+
+
+
