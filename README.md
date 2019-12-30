@@ -1,5 +1,5 @@
-# Nowcasting regional unemployment rates in Denmark
-## - A machine learning approach with novel data
+## Nowcasting regional unemployment rates in Denmark
+### - A machine learning approach with novel data
 
 We develop a machine learning approach to nowcasting regional unemployment rates that allows for real-time nowcasting within the publication lag period. We rely on novel data sources such as online search term intensity from Google Trends and job market indicators from Jobindex that are available in real time.
 By combining various machine learning techniques with the novel data sources, we obtain
