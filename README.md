@@ -13,7 +13,7 @@ We develop a machine learning approach to nowcasting regional unemployment rates
 By combining various machine learning techniques with the novel data sources, we obtain
 nowcasts for the monthly unemployment rates of the Danish regions from 2011-2019, and nowcasts for the quarterly unemployment rates of the Swedish regions from 2011- 2019. By testing various machine learning algorithms against different benchmark time series models for both countries, we find that the machine learning algorithms provides, at best, modest improvements the nowcasts of the unemployment rates – and we also analyse and discuss under which conditions machine learning has the most potential for improving nowcasts. <br/>
 
-The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>
+The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>. <br/>
 The retrived data is avaliable upon request. 
 
 #### Repository structure
