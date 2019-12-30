@@ -48,7 +48,7 @@ are contingent on geography and the choice of the baseline model.
 #### Repository structure
 <!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
 
-[Denmark](denmark) contains the data, code, models and results for Denmark <br/>
+[denmark](denmark) contains the data, code, models and results for Denmark <br/>
  📦 denmark <br/>
  ┣ 📂data <br/>
  ┣ 📂results <br/>
@@ -60,7 +60,7 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
  ┃ ┗ 📜6_results_robust.ipynb <br/>
 
-[Sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
+[sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 📦sweden <br/>
  ┣ 📂data <br/>
  ┣ 📂results <br/>
@@ -72,7 +72,7 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
  ┃ ┗ 📜6_results_robust.ipynb <br/>
 
-[Thesis](thesis) contains the master's thesis as a PDF file <br/>
+[thesis](thesis) contains the master's thesis as a PDF file <br/>
 📦thesis <br/>
 
 
