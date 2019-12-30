@@ -61,7 +61,6 @@ are contingent on geography and the choice of the baseline model.
  ┃ ┗ 📜6_results_robust.ipynb <br/>
 
 [Sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
-
 📦sweden <br/>
  ┣ 📂data <br/>
  ┣ 📂results <br/>
