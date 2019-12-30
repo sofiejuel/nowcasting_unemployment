@@ -54,134 +54,17 @@ are contingent on geography and the choice of the baseline model.
 Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator
 
 
+ 
+ 📦 denmark
+ ┣ 📂data
+ ┣ 📂results
+ ┣ 📂notebooks
 
 📦sweden
  ┣ 📂data
- ┃ ┣ 📂controls
- ┃ ┃ ┣ 📜df_DK_controls.csv
- ┃ ┃ ┗ 📜df_SE_controls.csv
- ┃ ┣ 📂descriptive
- ┃ ┃ ┣ 📜df_DK_descriptive.csv
- ┃ ┃ ┣ 📜df_analysis.csv
- ┃ ┃ ┗ 📜df_descriptive.csv
- ┃ ┣ 📂gt
- ┃ ┃ ┗ 📜dfTrends.csv
- ┃ ┣ 📂job_posts
- ┃ ┃ ┣ 📜df_DK_jobposts_quarterly_final.csv
- ┃ ┃ ┣ 📜df_DK_labour_force.csv
- ┃ ┃ ┣ 📜df_SE_jobposts_quarterly_final.csv
- ┃ ┃ ┗ 📜df_SE_labour_force.csv
- ┃ ┗ 📂target
- ┃ ┃ ┣ 📜df_DK_target.csv
- ┃ ┃ ┗ 📜df_SE_target.csv
- ┣ 📂report
- ┃ ┣ 📂8_robustness_DK
- ┃ ┃ ┗ 📜8_score_relative_DK.pdf
- ┃ ┣ 📂8_robustness_SE
- ┃ ┃ ┣ 📜.DS_Store
- ┃ ┃ ┣ 📜8_1stdiff_dist.pdf
- ┃ ┃ ┣ 📜8_conf.pdf
- ┃ ┃ ┣ 📜8_error_bar.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Blekinge_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Dalarna_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Gavleborg_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Gotland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Halland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Jonkoping_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Kalmar_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Kronoberg_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Norrbotten_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Orebro_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Ostergotland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Skane_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Sodermanland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Stockholm_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Uppsala_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Varmland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Vasterbotten_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Vasterbotten_xgboost_1.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Vasternorrland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Vastmanland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_Vastra_Gotalands_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_diff_stockholm_weighted_v_baseline.pdf
- ┃ ┃ ┣ 📜8_pred_diff_stockholm_xgboost_v_baseline.pdf
- ┃ ┃ ┣ 📜8_pred_level_Blekinge_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Dalarna_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Gavleborg_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Gotland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Halland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Jonkoping_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Kalmar_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Kronoberg_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Norrbotten_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Orebro_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Ostergotland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Skane_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Sodermanland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Stockholm_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Uppsala_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Varmland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Vasterbotten_baseline.pdf
- ┃ ┃ ┣ 📜8_pred_level_Vasterbotten_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Vasterbotten_xgboost_1.pdf
- ┃ ┃ ┣ 📜8_pred_level_Vastmanland_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Vastra_Gotalands_xgboost.pdf
- ┃ ┃ ┣ 📜8_pred_level_Västernorrland_xgboost.pdf
- ┃ ┃ ┣ 📜8_regional_boxplot_weighted.pdf
- ┃ ┃ ┣ 📜8_regional_boxplot_xgboost.pdf
- ┃ ┃ ┣ 📜8_regional_gain.pdf
- ┃ ┃ ┗ 📜8_score_relative.pdf
- ┃ ┗ 📜.DS_Store
  ┣ 📂results
- ┃ ┣ 📂final
- ┃ ┃ ┣ 📂baseline
- ┃ ┃ ┃ ┣ 📜results_ar1.pickle
- ┃ ┃ ┃ ┗ 📜results_ar_year_lag.pickle
- ┃ ┃ ┣ 📂bootstrap
- ┃ ┃ ┃ ┗ 📜results_bootstrap.pickle
- ┃ ┃ ┣ 📂elastic
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┗ 📜results_mp.pickle
- ┃ ┃ ┣ 📂lasso
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┗ 📜results_mp.pickle
- ┃ ┃ ┣ 📂randomforest
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┣ 📜results_final_noint.pickle
- ┃ ┃ ┃ ┣ 📜results_mp.pickle
- ┃ ┃ ┃ ┗ 📜results_noint.pickle
- ┃ ┃ ┣ 📂ridge
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┗ 📜results_mp.pickle
- ┃ ┃ ┣ 📂weighted
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┗ 📜results_final_shap.pickle
- ┃ ┃ ┣ 📂xgboost
- ┃ ┃ ┃ ┣ 📜results_final_complex.pickle
- ┃ ┃ ┃ ┣ 📜results_final_noint.pickle
- ┃ ┃ ┃ ┣ 📜results_final_shap.pickle
- ┃ ┃ ┃ ┣ 📜results_mp.pickle
- ┃ ┃ ┃ ┣ 📜results_noint.pickle
- ┃ ┃ ┃ ┗ 📜results_shap.pickle
- ┃ ┃ ┗ 📜y_dates.pickle
- ┃ ┗ 📂final_DK
- ┃ ┃ ┣ 📂baseline
- ┃ ┃ ┃ ┣ 📜results_ar1.pickle
- ┃ ┃ ┃ ┗ 📜results_ar_year_lag.pickle
- ┃ ┃ ┣ 📂elastic
- ┃ ┃ ┃ ┣ 📜results_final.pickle
- ┃ ┃ ┃ ┗ 📜results_mp.pickle
- ┃ ┃ ┣ 📂lasso
- ┃ ┃ ┣ 📂randomforest
+ ┣ 📂notebooks
 
- ┃ ┃ ┣ 📂ridge
- ┃ ┃ ┣ 📂weighted
- ┃ ┃ ┣ 📂xgboost
- ┣ 📜1_merge_robust.ipynb
- ┣ 📜2_descriptive_robust.ipynb
- ┣ 📜3_analysis_robust.ipynb
- ┣ 📜4_model_weights.ipynb
- ┣ 📜5_analysis_robust_conf.ipynb
- ┗ 📜6_results_robust.ipynb
+📦thesis
 
 
