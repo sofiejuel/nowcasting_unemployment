@@ -53,12 +53,12 @@ are contingent on geography and the choice of the baseline model.
  ┣ 📂data <br/>
  ┣ 📂results <br/>
  ┣ 📂notebooks <br/>
- ┃ ┣ 📜1_merge_robust.ipynb <br/>
- ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
- ┃ ┣ 📜3_analysis_robust.ipynb <br/>
+ ┃ ┣ 📜1_merge_DK.ipynb <br/>
+ ┃ ┣ 📜2_descriptive_DK.ipynb <br/>
+ ┃ ┣ 📜3_analysis_DK.ipynb <br/>
  ┃ ┣ 📜4_model_weights.ipynb <br/>
- ┃ ┣ 📜5_analysis_robust_conf.ipynb <br/>
- ┃ ┗ 📜6_results_robust.ipynb <br/>
+ ┃ ┣ 📜5_results_DK.ipynb <br/>
+ ┃ ┗ 📜6_SHAP xgboost.ipynb <br/>
 
 [sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 📦sweden <br/>
