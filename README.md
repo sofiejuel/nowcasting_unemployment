@@ -28,6 +28,7 @@ The retrived data is avaliable upon request.
  ┃ ┣ 📜5_results_DK.ipynb <br/>
  ┃ ┗ 📜6_SHAP_xgboost_DK.ipynb <br/>
 
+[data_fetch](data_fetch) contains the notebooks for retrieving data <br/> 
 📦data_fetch  <br/>
  ┣ 📜DK_SE.ipynb  <br/>
  ┣ 📜control_variables.ipynb  <br/>
