@@ -8,8 +8,49 @@ Sofie Juel and Waldemar Schoustrup Schuppli
 #### About 
 
 This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
+
+We develop a machine learning approach to nowcasting regional unemployment rates that allows for real-time nowcasting within the publication lag period. We rely on novel data sources such as online search term intensity from Google Trends and job market indicators from Jobindex that are available in real time.
+By combining various machine learning techniques with the novel data sources, we obtain
+nowcasts for the monthly unemployment rates of the Danish regions from 2011-2019, and nowcasts for the quarterly unemployment rates of the Swedish regions from 2011- 2019. By testing various machine learning algorithms against different benchmark time series models for both countries, we find that the machine learning algorithms provides, at best, modest improvements the nowcasts of the unemployment rates – and we also analyse and discuss under which conditions machine learning has the most potential for improving nowcasts. <br/>
+
 The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>
 The retrived data is avaliable upon request. 
+
+#### Repository structure
+<!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
+
+[denmark](denmark) contains the data, code, models and results for Denmark <br/>
+ 📦 denmark <br/>
+ ┃ ┣ 📜1_merge_DK.ipynb <br/>
+ ┃ ┣ 📜2_descriptive_DK.ipynb <br/>
+ ┃ ┣ 📜3_analysis_DK.ipynb <br/>
+ ┃ ┣ 📜4_model_weights_DK.ipynb <br/>
+ ┃ ┣ 📜5_results_DK.ipynb <br/>
+ ┃ ┗ 📜6_SHAP_xgboost_DK.ipynb <br/>
+
+📦data_fetch
+ ┣ 📜DK_SE.ipynb
+ ┣ 📜control_variables.ipynb
+ ┣ 📜jobindex.ipynb
+ ┣ 📜pytrends.ipynb
+ ┗ 📜target_variable.ipynb
+
+[functions](functions) contains the constructed functions <br/> 
+📦functions <br/>
+ ┗ 📜func.py <br/>
+
+[sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
+📦sweden <br/>
+ ┃ ┣ 📜1_merge_robust.ipynb <br/>
+ ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
+ ┃ ┣ 📜3_analysis_robust.ipynb <br/>
+ ┃ ┣ 📜4_model_weights_robust.ipynb <br/>
+ ┃ ┣ 📜5_analysis_conf_robust.ipynb <br/>
+ ┃ ┗ 📜6_results_robust.ipynb <br/>
+
+[thesis](thesis) contains the master's thesis as a PDF file <br/>
+📦thesis <br/>
+ ┗ 📜masters_thesis.pdf <br/>
 
 #### Acknowledgements
 
@@ -47,33 +88,6 @@ with machine learning techniques versus a traditional econometric nowcasting mod
 The discovered improvements in nowcast precision of regional unemployment rates
 are contingent on geography and the choice of the baseline model.
 
-#### Repository structure
-<!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
 
-[denmark](denmark) contains the data, code, models and results for Denmark <br/>
- 📦 denmark <br/>
- ┃ ┣ 📜1_merge_DK.ipynb <br/>
- ┃ ┣ 📜2_descriptive_DK.ipynb <br/>
- ┃ ┣ 📜3_analysis_DK.ipynb <br/>
- ┃ ┣ 📜4_model_weights_DK.ipynb <br/>
- ┃ ┣ 📜5_results_DK.ipynb <br/>
- ┃ ┗ 📜6_SHAP_xgboost_DK.ipynb <br/>
-
-[functions](functions) contains the constructed functions <br/> 
-📦functions <br/>
- ┗ 📜func.py <br/>
-
-[sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
-📦sweden <br/>
- ┃ ┣ 📜1_merge_robust.ipynb <br/>
- ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
- ┃ ┣ 📜3_analysis_robust.ipynb <br/>
- ┃ ┣ 📜4_model_weights_robust.ipynb <br/>
- ┃ ┣ 📜5_analysis_conf_robust.ipynb <br/>
- ┃ ┗ 📜6_results_robust.ipynb <br/>
-
-[thesis](thesis) contains the master's thesis as a PDF file <br/>
-📦thesis <br/>
- ┗ 📜masters_thesis.pdf <br/>
 
 
