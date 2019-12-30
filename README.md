@@ -55,16 +55,16 @@ Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.
 
 
  
- 📦 denmark
- ┣ 📂data
- ┣ 📂results
- ┣ 📂notebooks
+ 📦 denmark <br/>
+ ┣ 📂data <br/>
+ ┣ 📂results <br/>
+ ┣ 📂notebooks <br/>
 
-📦sweden
- ┣ 📂data
- ┣ 📂results
- ┣ 📂notebooks
+📦sweden <br/>
+ ┣ 📂data <br/>
+ ┣ 📂results <br/>
+ ┣ 📂notebooks <br/>
 
-📦thesis
+📦thesis <br/>
 
 
