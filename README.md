@@ -1,5 +1,12 @@
-## Beyoind the Hype
-### - A machine learning approach to macroeconomic nowcasting
+## Beyond the Hype: A machine learning approach to macroeconomic nowcasting
+
+University of Copenhagen, Department of Economics
+Master's thesis, December 2019
+Authors: Sofie Juel and Waldemar Schoustrup Schuppli
+
+#### About 
+
+
 
 #### Acknowledgements
 
