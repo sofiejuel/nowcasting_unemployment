@@ -6,7 +6,8 @@ Type: Master's thesis, December 2019
 
 #### About 
 
-
+This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
+The actual thesis can be found here: INSERT THESIS
 
 #### Acknowledgements
 
@@ -45,6 +46,8 @@ The discovered improvements in nowcast precision of regional unemployment rates
 are contingent on geography and the choice of the baseline model.
 
 #### Repository structure
+
+
 
 
 
