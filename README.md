@@ -2,12 +2,14 @@
 
 Master's thesis, December 2019 <br/>
 University of Copenhagen, Department of Economics <br/>
-Sofie Juel and Waldemar Schoustrup Schuppli  
+Sofie Juel and Waldemar Schoustrup Schuppli
+
 
 #### About 
 
 This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
 The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>
+The retrived data is avaliable upon request.
 
 #### Acknowledgements
 
@@ -50,8 +52,6 @@ are contingent on geography and the choice of the baseline model.
 
 [denmark](denmark) contains the data, code, models and results for Denmark <br/>
  📦 denmark <br/>
- ┣ 📂data <br/>
- ┣ 📂results <br/>
  ┣ 📂notebooks <br/>
  ┃ ┣ 📜1_merge_DK.ipynb <br/>
  ┃ ┣ 📜2_descriptive_DK.ipynb <br/>
@@ -66,8 +66,6 @@ are contingent on geography and the choice of the baseline model.
 
 [sweden](sweden)  contains the data, code, models and results for Sweden <br/> 
 📦sweden <br/>
- ┣ 📂data <br/>
- ┣ 📂results <br/>
  ┣ 📂notebooks <br/>
  ┃ ┣ 📜1_merge_robust.ipynb <br/>
  ┃ ┣ 📜2_descriptive_robust.ipynb <br/>
