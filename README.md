@@ -1,5 +1,5 @@
-## Nowcasting regional unemployment rates in Denmark
-### - A machine learning approach with novel data
+## Beyoind the Hype
+### - A machine learning approach to macroeconomic nowcasting
 
 #### Acknowledgements
 
