@@ -7,7 +7,7 @@ Type: Master's thesis, December 2019
 #### About 
 
 This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
-The actual thesis can be found here: <a href="theis/master_thesis.pdf" download="file.csv">download this</a>
+The actual thesis can be found here: <a href="theis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>
 
 #### Acknowledgements
 
