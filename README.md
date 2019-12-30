@@ -28,12 +28,12 @@ The retrived data is avaliable upon request.
  ┃ ┣ 📜5_results_DK.ipynb <br/>
  ┃ ┗ 📜6_SHAP_xgboost_DK.ipynb <br/>
 
-📦data_fetch
- ┣ 📜DK_SE.ipynb
- ┣ 📜control_variables.ipynb
- ┣ 📜jobindex.ipynb
- ┣ 📜pytrends.ipynb
- ┗ 📜target_variable.ipynb
+📦data_fetch  <br/>
+ ┣ 📜DK_SE.ipynb  <br/>
+ ┣ 📜control_variables.ipynb  <br/>
+ ┣ 📜jobindex.ipynb  <br/>
+ ┣ 📜pytrends.ipynb  <br/>
+ ┗ 📜target_variable.ipynb  <br/>
 
 [functions](functions) contains the constructed functions <br/> 
 📦functions <br/>
