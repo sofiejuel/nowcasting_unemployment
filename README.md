@@ -7,16 +7,19 @@ Sofie Juel and Waldemar Schoustrup Schuppli
 
 #### About 
 
-This repository contains nearly all code, models and graphs produced for our master's thesis.  <br/>
+This repository contains nearly all code, models and graphs produced for our master's thesis. Please cite us if you are inspired by our work. <br/>
 
 We develop a machine learning approach to nowcasting regional unemployment rates that allows for real-time nowcasting within the publication lag period. We rely on novel data sources such as online search term intensity from Google Trends and job market indicators from Jobindex that are available in real time.
 By combining various machine learning techniques with the novel data sources, we obtain
 nowcasts for the monthly unemployment rates of the Danish regions from 2011-2019, and nowcasts for the quarterly unemployment rates of the Swedish regions from 2011- 2019. By testing various machine learning algorithms against different benchmark time series models for both countries, we find that the machine learning algorithms provides, at best, modest improvements the nowcasts of the unemployment rates – and we also analyse and discuss under which conditions machine learning has the most potential for improving nowcasts. <br/>
 
 The actual thesis can be found here: <a href="thesis/master_thesis.pdf" download="master_thesis.pdf">Master's Thesis</a>. <br/>
-The retrived data is avaliable upon request. 
+The retrived data is available upon request. 
 
 #### Repository structure
+
+Note that the structure of the code is not made for general purposes, but are specific to our setup and analyis - thus, the code will most likely not run if one naively runs a given script. However, the code can serve as inspiration to anyone who wishes to conduct research that is similar to our thesis. 
+
 <!-- Generate tree https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator -->
 
 [denmark](denmark) contains the data, code, models and results for Denmark <br/>
